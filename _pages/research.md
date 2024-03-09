@@ -2,7 +2,7 @@
 title: "Research"
 permalink: /research/
 header:
-  image: "/images/fourthinstar.png"
+  image: "/images/guppies high density.png"
 ---
 
 I am broadly interested in how population-level features– like population dynamics and the spatial ecology of a species– emerge from the sum of individual-level traits. My research involves quantitative approaches and spans several study systems and questions. Below is a quick summary of my main interests.
