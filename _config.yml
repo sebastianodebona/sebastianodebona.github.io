@@ -20,7 +20,7 @@ title                    : "Seba De Bona"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Seba De Bona"
-description              : "Postdoc-ing at the iEcoLab"
+description              : "Asking, discovering, teaching"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Seba De Bona"
   avatar           : "/images/small_profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Postdoc at the iEcoLab"
+  bio              : "Ecologist, Data Scientist, Educator"
   location         : "Philadelphia, PA"
   email            :
   links:
