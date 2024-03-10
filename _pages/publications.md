@@ -2,15 +2,15 @@
 title: "Publications"
 permalink: /publications/
 header:
-  image: "/images/.png"
+  image: "/images/lalaja.png"
 ---
 
 ## Peer Reviewed Papers
 
 * **De Bona S**, \*Sidhu K, \*Enroth HM, López-Sepulcre A. Density-dependent dispersal and habitat use in size-structured populations: an experiment in wild Trinidadian guppies. *Submitted*.
 * \*Sidhu K, **De Bona S**, Gordon S, López-Sepulcre A. Density-dependent behavioural change in the Trinidadian guppy. *Under review*.
-* **De Bona S**, Barringer L, Kurtz P, Losiewicz J, Parra GR, Helmus MR. 2023. lydemapr: an R package to track the spread of the invasive Spotted Lanternfly (*Lycorma delicatula*, White 1845)(Hemiptera, Fulgoridae) in the United States. *NeoBiota* **85**: 151–168, [10.3897/neobiota.86.101471](https://neobiota.pensoft.net/article/101471/).
-* *Ramirez VA, **De Bona S**, Helmus MR, Behm JE. 2023. Multiscale assessment of oviposition habitat associations and implications for management in the spotted lanternfly (*Lycorma delicatula*), an emerging invasive pest. *Journal of Applied Ecology* **60**(3), 411-420. [10.1111/1365-2664.14365](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2664.14365).
+* **De Bona S**, Barringer L, Kurtz P, Losiewicz J, Parra GR, Helmus MR. 2023. lydemapr: an R package to track the spread of the invasive Spotted Lanternfly (*Lycorma delicatula*, White 1845)(Hemiptera, Fulgoridae) in the United States. *NeoBiota* **85** 151–168, [10.3897/neobiota.86.101471](https://neobiota.pensoft.net/article/101471/).
+* \*Ramirez VA, **De Bona S**, Helmus MR, Behm JE. 2023. Multiscale assessment of oviposition habitat associations and implications for management in the spotted lanternfly (*Lycorma delicatula*), an emerging invasive pest. *Journal of Applied Ecology* **60**(3), 411-420. [10.1111/1365-2664.14365](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2664.14365).
 * Lewkiewicz SM, **De Bona S**, Helmus MR, Seibold B. 2022. Temperature sensitivity of pest reproductive numbers in age-structured PDE models, with a focus on the invasive spotted lanternfly. *Journal of Mathematical Biology* **85**(3), 29. [10.1007/s00285-022-01800-9](https://link.springer.com/article/10.1007/s00285-022-01800-9).
 * \*Mourmourakis F, **De Bona S**, Umbers KD. 2022. Increasing intensity of deimatic behaviour in response to repeated simulated attacks: a case study on the mountain katydid (*Acripeza reticulata*). Behavioral *Ecology and Sociobiology*. [10.1007/s00265-022-03226-1](https://link.springer.com/article/10.1007/s00265-022-03226-1).
 * Reznick DN, **De Bona S**, López-Sepulcre A, Torres M, Bassar RD, Benzen P, Travis J. 2020. Experimental study of species invasion: early population dynamics and role of disturbance in invasion success. *Ecological Monographs*. [10.1002/ecm.1413](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecm.1413).
@@ -30,4 +30,4 @@ header:
 
 ## R Packages
 
-**De Bona S** & Helmus MR 2023. lydemapr: an R package to track the spread of the invasive Spotted Lanternfly. [GitHub](https://github.com/ieco-lab/lydemapr) | [Site](ieco-lab.github.io/lydemapr/)
+**De Bona S** & Helmus MR 2023. lydemapr: an R package to track the spread of the invasive Spotted Lanternfly. [GitHub](https://github.com/ieco-lab/lydemapr) [Site](ieco-lab.github.io/lydemapr/)
