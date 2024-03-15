@@ -22,12 +22,12 @@ Lewkiewicz SM, De Bona S, Helmus MR, Seibold B 2022.
 
 ## Life History and Spatial Ecology
 
-
+Coming soon!
 
 ## Predator-prey interactions
 
-
+Coming soon!
 
 ## Harnessing data science to aid management actions
 
-Innovation in data collection techniques, and the involvement of the public through community-science initiatives, allows data to be collected at an unprecedented pace. One of the challenges of working with data collected by several sources (e.g. by research institutions, government agengies, and the public) is the high heterogeneity in the collection methods used. During my work as a postdoc at Temple University, I was challenged with combining datasets 
+Coming soon!
