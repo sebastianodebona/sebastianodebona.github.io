@@ -22,9 +22,9 @@ Invasive species provide a great opportunity to study basic science questions. A
 My PhD research, done under the supervision of [Prof. Andrés López-Sepulcre](https://ecologyandevolution.cornell.edu/andres-lopez-sepulcre), involved working with Trinidadian Guppies (*Poecilia reticulata*) to study how populations react to introduction, and how density affects life history, dispersal, and habitat use. I studied four introduced population, showing disturbance (in the form of tree cutting around the streams) can favor invasive population growth by increasing their maximum population density. My research into density-dependent dispersal shows how properties at different scales can interact in determining an individual’s behaviour: dispersal is determined by the interaction between density at both local and landscape scales. Finally, with a density manipulation experiment, I tested how guppies respond to increased and decreased density in terms of microhabitat use. My experiment, conducted with two students in the Northern Range in Trinidad, shows patterns in line with the ideal despotic distribution, where larger individuals monopolize better quality habitats at the expenses of smaller subordinate individuals.
 
  <p float="left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/guppy_male.jpg" height="200" 
+  <img src="{{ site.url }}{{ site.baseurl }}/images/guppy_male.jpg" height="200px" 
    alt="Trinidadian Guppy" />
-  <img src="{{ site.url }}{{ site.baseurl }}/images/field_release_guppies.jpeg" alt="Guppies released after the experiment" height="200" /> 
+  <img src="{{ site.url }}{{ site.baseurl }}/images/field_release_guppies.jpeg" alt="Guppies released after the experiment" height="200px" /> 
 </p>
 
 ## Predator-prey interactions
@@ -40,9 +40,9 @@ The results showed that great tits reacted just as strongly to the owl image as 
 My interest for animal coloration later took me to Australia, where I worked with [Dr. Kate Umbers](https://www.westernsydney.edu.au/staff_profiles/WSU/doctor_kate_umbers) to explore the wonderful deimatic display of the Mountain Katydid (*Acripeza reticulata*). When attacked, this slow moving, large cryptic insect performs a startling display by raising its wings and exposing a brightly colored, contrasting abdomen. The wonderful collaboration with Kate brough about several publications and an abiding love for this amazing bug.
 
 <p float="left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/katydid.jpg" height="200" 
+  <img src="{{ site.url }}{{ site.baseurl }}/images/katydid.jpg" height="200px" 
   alt = "Katydid"/>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/deimatic.gif" height="200" 
+  <img src="{{ site.url }}{{ site.baseurl }}/images/deimatic.gif" height="200px" 
   alt = "The display. Source: kqedscience.tumblr.com"/> 
 </p>
 
