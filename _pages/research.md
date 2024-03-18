@@ -11,7 +11,7 @@ I am broadly interested in how population-level features– like population dyna
 
 The rate at which invasive alien species are introduced in new locations is increasing, often threatening local biodiversity and national economies. If our goal is to predict and prevent the establishment and spread of invasive populations, it is crucial to understand the drivers of these processes. To tackle this, we can use statistical models fitted over large datasets to understand broad correlation patterns between ecological features and life history traits and behaviors. We can study, for instance, how temperature affects the growth and development of organisms; how resource availability affects survival, fecundity, and dispersal; how predation regulates population size. This approach grants us not only basic knowledge of the species but also the ability to parameterize mechanistic mathematical models. A bottom-up approach, where mechanisms are used to infer large-scale behaviors at the population level, is best suited to predict the behavior of a system in a set of circumstances that we have not yet witnessed. For instance, based on our knowledge of how individual traits depend on ecological features, we can ask how the likelihood of establishment will change as temperature rises due to climate change, or as hosts become more or less available due to new invasive species being introduced. A large portion of my research involves working with these models, using an invasive pest as a model system.
 
- <img src="{{ site.url }}{{ site.baseurl }}/images/slf_drawn.png" alt="Spotted Lanternfly" width="250px">
+ <img src="{{ site.url }}{{ site.baseurl }}/images/slf_drawn.png" caption="Spotted Lanternfly" width="250px">
 
 The spotted lanternfly (*Lycorma delicatula*) is a generalist, sap-feeding planthopper that was accidentally introduced in the United States in Berks County, PA in 2014. Since then, it has spread through the Eastern US, coming into the spotlight for its damaging impact on economically important tree species such as grapevine, maple, and walnut (you can read about it [here](https://extension.psu.edu/spotted-lanternfly) and [here](https://www.agriculture.pa.gov/Plants_Land_Water/PlantIndustry/Entomology/spotted_lanternfly/SpottedLanternflyAlert/Pages/default.aspx)). With [Prof. Matt Helmus](https://www.iecolab.org/matthew-r-helmus/), Dr. Stephanie Lewkiewicz, and Prof. Benni Seibold, we developed a first-principle Partial Differential Equation model to predict the chances of establishment and spread of spotted lanternfly throughout the United States. The model is based on results from several experimental and observational studies investigating the developmental rate, mortality, and reproductive rate of spotted lanternfly at different temperatures and on different plant host species. To know more about our study, check out [our publication](https://link.springer.com/article/10.1007/s00285-022-01800-9)
 
@@ -29,6 +29,7 @@ My PhD research, done under the supervision of [Prof. Andrés López-Sepulcre](h
   <img src="{{ site.url }}{{ site.baseurl }}/images/guppy_male.jpg" style="width:326px;height:200px;" 
    alt="Trinidadian Guppy" />
   <img src="{{ site.url }}{{ site.baseurl }}/images/field_release_guppies.jpeg" alt="Guppies released after the experiment" style="width:300px;height:200px;" /> 
+  <figcaption>Trinidadian guppy (left) and guppies released in the field after the experiment (right).</figcaption>
 </p>
 
 ## Predator-prey interactions
@@ -48,4 +49,5 @@ My interest for animal coloration later took me to Australia, where I worked wit
   alt = "Katydid"/>
   <img src="{{ site.url }}{{ site.baseurl }}/images/deimatic.gif" style="width:239px;height:146px;" 
   alt = "The display. Source: kqedscience.tumblr.com"/> 
+   <figcaption>Mountain katydid and its deimatic display (source: kqedscience.tumblr.com).</figcaption>
 </p>
