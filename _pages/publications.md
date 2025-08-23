@@ -7,8 +7,8 @@ header:
 
 ## Peer Reviewed Papers
 
-* **De Bona S**, \*Sidhu K, \*Enroth HM, López-Sepulcre A. Density-dependent dispersal and habitat use in size-structured populations: an experiment in wild Trinidadian guppies. *Submitted*.
-* \*Sidhu K, **De Bona S**, Gordon S, López-Sepulcre A. Density-dependent behavioural change in the Trinidadian guppy. *Under review*.
+* **De Bona S**, \*Sidhu K, \*Enroth HM, López-Sepulcre A. Density-dependent dispersal and habitat use in size-structured populations: an experiment in wild Trinidadian guppies. *Ecology* **106** (7). [10.1002/ecy.70151](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70151).
+*	Belouard N, **De Bona S**, Helmus MR, Smith IG, Behm JE (2025) A method to quantify jump dispersal of invasive species from occurrence data: the case of the spotted lanternfly, Lycorma delicatula. *NeoBiota* **98**: 319-334. [10.3897/neobiota.98.147310](https://neobiota.pensoft.net/article/147310/).
 * **De Bona S**, Barringer L, Kurtz P, Losiewicz J, Parra GR, Helmus MR. 2023. lydemapr: an R package to track the spread of the invasive Spotted Lanternfly (*Lycorma delicatula*, White 1845)(Hemiptera, Fulgoridae) in the United States. *NeoBiota* **85** 151–168, [10.3897/neobiota.86.101471](https://neobiota.pensoft.net/article/101471/).
 * \*Ramirez VA, **De Bona S**, Helmus MR, Behm JE. 2023. Multiscale assessment of oviposition habitat associations and implications for management in the spotted lanternfly (*Lycorma delicatula*), an emerging invasive pest. *Journal of Applied Ecology* **60**(3), 411-420. [10.1111/1365-2664.14365](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2664.14365).
 * Lewkiewicz SM, **De Bona S**, Helmus MR, Seibold B. 2022. Temperature sensitivity of pest reproductive numbers in age-structured PDE models, with a focus on the invasive spotted lanternfly. *Journal of Mathematical Biology* **85**(3), 29. [10.1007/s00285-022-01800-9](https://link.springer.com/article/10.1007/s00285-022-01800-9).
@@ -23,6 +23,10 @@ header:
 
 \**denotes a student I mentored*
 
+## Preprints and drafts
+*	Keller J, **De Bona S**, Helmus MR. 2025. Leveraging spatial scale and temporal variation to optimize estimates of invasive spread rates. *bioRxiv*. [https://doi.org/10.1101/2025.02.06.636321](https://doi.org/10.1101/2025.02.06.636321).
+*	\*Sidhu K, **De Bona S**, Gordon S, López-Sepulcre A. Density-dependent behavioural change in the Trinidadian guppy. *In preparation*.
+*	**De Bona S**, Reznick D, Bassar R, Bentzen P, Travis J, López-Sepulcre A. Rapid changes in dispersal and vital rates alter the invasiveness of introduced guppies. *In preparation*.
 
 ## Doctoral dissertation
 
